@@ -23,6 +23,7 @@ Today, that same curiosity drives my journey as a fullstack web developer. I'm s
 
 🧠 My current obsession: mastering DevOps — automating, scaling, and deploying things the smart way.
 
+🔥 What I’m Working On
 - Building **OGallery**, a fullstack image-sharing app with real-time features, admin tools, and a modern UI
 - Learning and applying **DevOps principles**:
   - EC2 instance provisioning and **Auto Scaling Groups**
