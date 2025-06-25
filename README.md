@@ -36,7 +36,6 @@ Today, that same curiosity drives my journey as a fullstack web developer. I'm s
 🛠️ I'm not just coding — I'm focused on writing **clean, scalable, performant, and maintainable code** across both frontend and backend.
 
 📚 I believe in **building consistently, sharing openly**, and improving every week.  
-Whether it’s debugging a WebSocket race condition or optimizing image uploads with AWS S3 + Sharp, I enjoy digging deep into the details and solving actual problems.
 
 🛠️ Currently creating my personal portfolio and polishing all of my GitHub projects with full READMEs, demos, and clean deployment setups.
 
