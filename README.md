@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/outhman790">
+    <img src="https://komarev.com/ghpvc/?username=outhman790&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/outhman-moumou/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
 </p>
@@ -94,14 +94,14 @@ Let’s connect and build cool things 🚀
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=outhman790&show_icons=true&theme=radical" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=outhman790&theme=radical" alt="streak"/>
 </p>
 
 ---
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 💼 [LinkedIn](https://linkedin.com/in/outhman-moumou)
 - 🌍 Portfolio (Coming soon!)
