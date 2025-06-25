@@ -96,9 +96,7 @@ Let’s connect and build cool things 🚀
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=outhman790&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=outhman790&theme=radical" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=outhman790&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </p>
 
 ---
