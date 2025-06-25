@@ -31,6 +31,8 @@ Over the years, I’ve built **25+ projects** ranging from small frontend apps t
   - **IAM roles and policies** for secure permissions
   - Preparing for future **Terraform** automation
 
+🛠️ I'm not just coding — I'm focused on writing **clean, scalable, performant, and maintainable code** across both frontend and backend.
+
 📚 I believe in **building consistently, sharing openly**, and improving every week.  
 Whether it’s debugging a WebSocket race condition or optimizing image uploads with AWS S3 + Sharp, I enjoy digging deep into the details and solving actual problems.
 
