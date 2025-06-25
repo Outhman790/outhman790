@@ -77,10 +77,13 @@ Let’s connect and build cool things 🚀
 ### ☁️ DevOps & Tools
 
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-aws)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-aws)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat&logo=amazon-aws)
+![AWS Route 53](https://img.shields.io/badge/Route_53-FF9900?style=flat&logo=amazon-aws)
+![AWS Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat&logo=awsamplify)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
-![Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify)
 ![Prettier](https://img.shields.io/badge/Code_Style-Prettier-F7B93E?style=flat&logo=prettier)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
 
