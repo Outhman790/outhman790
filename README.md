@@ -15,12 +15,13 @@
 ---
 
 ## 🚀 About Me
-
 🎓 Ever since I was a kid, I was the kind of person who would take things apart just to see how they worked — and try to put them back together (sometimes successfully 😅). Whether it was modifying games, building simple websites, or experimenting with scripts, the urge to build has always been in me.
+
 Today, that same curiosity drives my journey as a fullstack web developer. I'm self-taught, passionate, and obsessed with turning ideas into real, functional software.
+
 🌟 With 25+ projects behind me (from simple PHP apps to scalable Node.js/React systems), I now focus on performance, maintainability, and real-world architecture.
+
 🧠 My current obsession: mastering DevOps — automating, scaling, and deploying things the smart way.
-🧠 My current focus is on:
 
 - Building **OGallery**, a fullstack image-sharing app with real-time features, admin tools, and a modern UI
 - Learning and applying **DevOps principles**:
