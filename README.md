@@ -15,24 +15,24 @@
 ---
 
 ## 🚀 About Me
+
 🎓 Ever since I was a kid, I was the kind of person who would take things apart just to see how they worked — and try to put them back together (sometimes successfully 😅). Whether it was modifying games, building simple websites, or experimenting with scripts, the urge to build has always been in me.
 
-Today, that same curiosity drives my journey as a fullstack web developer. I'm self-taught, passionate, and obsessed with turning ideas into real, functional software.
+Today, that same curiosity drives my journey as a **self-taught fullstack developer**. I started by hacking together PHP scripts and quickly moved on to building structured, scalable apps using **Node.js** and **Express** on the backend, and **React** with **TailwindCSS** on the frontend.
 
-🌟 With 25+ projects behind me (from simple PHP apps to scalable Node.js/React systems), I now focus on performance, maintainability, and real-world architecture.
+With 25+ projects under my belt — from simple PHP apps to fullstack systems — I’ve built strong skills in **REST API design**, **authentication**, **database modeling**, and clean, component-driven UI architecture. I love turning Figma designs into production-ready code with high accuracy, whether it's with TailwindCSS or raw CSS.
 
-🧠 My current obsession: mastering DevOps — automating, scaling, and deploying things the smart way.
+🧠 My current obsession is mastering **DevOps**: automating deployment pipelines, managing cloud infrastructure, and scaling apps smartly using AWS services.
 
-🔥 What I’m Working On
-- Building **OGallery**, a fullstack image-sharing app with real-time features, admin tools, and a modern UI
-- Learning and applying **DevOps principles**:
-  - EC2 instance provisioning and **Auto Scaling Groups**
-  - Reverse proxy and SSL setup with **Nginx**
-  - Runtime process management with **PM2**
-  - CI/CD pipelines using **GitHub Actions**
-  - **AWS S3** for image storage
-  - **IAM roles and policies** for secure permissions
-  - Preparing for future **Terraform** automation
+## 🔭 Current Focus & Next Goals
+
+- 🚧 Finalizing **OGallery**, a fullstack image-sharing app with real-time features, admin tools, and AWS deployment
+- 🌐 Deepening DevOps skills: **Nginx**, **CI/CD pipelines**, **Auto Scaling Groups**, and **Terraform**
+- 🐳 Learning **Docker** for containerization and exploring **Kubernetes** for orchestration
+- 🎯 Preparing for **AWS Developer Associate Certification**
+- 📦 Building personal boilerplates for reusable, production-ready fullstack setups
+- 🧪 Getting hands-on with testing: writing unit tests, integration tests, and E2E flows
+
 
 🛠️ I'm not just coding — I'm focused on writing **clean, scalable, performant, and maintainable code** across both frontend and backend.
 
