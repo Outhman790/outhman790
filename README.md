@@ -18,9 +18,10 @@
 
 🎓 Ever since I was a kid, I was the kind of person who would take things apart just to see how they worked — and try to put them back together (sometimes successfully 😅). Whether it was modifying games, building simple websites, or experimenting with scripts, the urge to build has always been in me.
 
-Today, that same curiosity drives my journey as a **self-taught fullstack developer**. I started by hacking together PHP scripts and quickly moved on to building structured, scalable apps using **Node.js** and **Express** on the backend, and **React** with **TailwindCSS** on the frontend.
+Today, that same curiosity drives my journey as a **self-taught fullstack developer**, strengthened by my time at **Solicode**, a development school where I honed essential soft skills like **communication**, **collaboration**, **project planning**, **problem-solving**, **adaptability**, and **time management** — all developed through team-based coding projects, agile workflows, and presentations under real deadlines. I taught myself the entire **frontend ecosystem**, from HTML/CSS/JS to advanced React patterns. During my time at **Solicode**, I deepened my backend knowledge by working with **PHP** and **MySQL**, gaining a solid foundation in server-side logic and relational databases. After graduating, I kept pushing forward by diving into modern stacks like **Node.js** and **Express**, where I now build powerful REST APIs and scalable backend systems.
 
-With 25+ projects under my belt — from simple PHP apps to fullstack systems — I’ve built strong skills in **REST API design**, **authentication**, **database modeling**, and clean, component-driven UI architecture. I love turning Figma designs into production-ready code with high accuracy, whether it's with TailwindCSS or raw CSS.
+
+With 27+ projects under my belt — from simple PHP apps to fullstack systems — I’ve built strong skills in **REST API design**, **authentication**, **database modeling**, and clean, component-driven UI architecture. I love turning Figma designs into production-ready code with high accuracy, whether it's with TailwindCSS or raw CSS.
 
 🧠 My current obsession is mastering **DevOps**: automating deployment pipelines, managing cloud infrastructure, and scaling apps smartly using AWS services.
 
